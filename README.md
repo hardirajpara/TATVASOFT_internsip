@@ -1,5 +1,4 @@
 # TATVASOFT_internsip
-I am doing 15-days internship in tatvasoft 
 <h1>HARDI RAJPARA</h1>
 <h2> ENROLLMENT_NUMBER : 22BECE30391</h2>
 This is the repository that contains all my works during the 15 days of Summer Intership at TATVASOFT.
